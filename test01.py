@@ -3,3 +3,5 @@
 import sys
 
 print "First demo2"
+
+print "Secind demo2"
