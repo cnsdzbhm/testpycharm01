@@ -10,3 +10,5 @@ print "Second demo2 for test02.py"
 print "Third demo2 for test02.py"
 
 print "Third4 demo2 for test02.py"
+
+print "test ssh demo2 for test02.py"

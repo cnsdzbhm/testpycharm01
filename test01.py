@@ -7,3 +7,5 @@ print "First demo2"
 print "Secind demo2"
 
 print "Secind demo3"
+
+print "test ssh demo3"
